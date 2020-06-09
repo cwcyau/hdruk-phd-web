@@ -1,12 +1,8 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-permalink: /home/
-title: "Home"
+layout: splash
+classes:
+  - landing
+  - dark-theme
 ---
 
+Home
